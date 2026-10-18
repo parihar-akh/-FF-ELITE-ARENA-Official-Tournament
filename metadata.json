@@ -1,0 +1,7 @@
+{
+  "name": "FF Elite Arena",
+  "description": "Professional Free Fire Esports Tournament Platform. Play Fair, Compete Hard, Win Big with daily custom room tournaments, verified kill rewards, and Booyah prizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
